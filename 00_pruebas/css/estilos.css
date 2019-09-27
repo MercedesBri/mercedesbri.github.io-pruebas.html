@@ -1,0 +1,54 @@
+.content{
+	border: solid;
+	width: 30%;
+	padding: 1%;
+	float: left;
+}
+
+.icon{
+	background: lightblue;
+	color: white;
+	font-size: 6em;
+	text-align: center;
+	border-radius: 80%;
+}
+
+.icon:hover{background: white;
+		color: gray;
+}
+
+.icon2{
+	background: pink;
+	color: white;
+	font-size: 6em;
+	text-align: center;
+	border-radius: 80%;
+}
+
+.icon2:hover{background: white;
+		color: gray;
+}
+
+
+.icon3{
+	background: white;
+	color: red;
+	font-size: 6em;
+	text-align: center:
+	border-radius: 80%;
+}
+
+
+.icon3:hover{background: white;
+		color: gray;
+}
+
+
+.icon4{
+	background: white;
+	color: blue;
+	font-size: 6em;
+	text-align: center:
+	border-radius: 80%;
+}
+
